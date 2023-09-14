@@ -1,5 +1,5 @@
 {
-  "homepage": "http://TumzaLehipi.github.io/port_",
+  "homepage": "https://github.com/TumzaLehipi/tmz-portfolio",
   "name": "stylingsss",
   "version": "0.1.0",
   "private": true,
@@ -24,12 +24,12 @@
     "styled-components": "^5.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "predeploy": "npm run --openssl-legacy-provider build",
+    "deploy": "gh-pages -d build -b main -r https://github.com/tumzalehipi/tumelomoipolaidev.github.io -f",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts --openssl-legacy-provider test",
+    "eject": "react-scripts --openssl-legacy-provider  eject"
   },
   "eslintConfig": {
     "extends": "react-app"
