@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/tmz-portfolio/static/js/main.e661c0e2.chunk.js",
+    "main.js.map": "/tmz-portfolio/static/js/main.e661c0e2.chunk.js.map",
+    "runtime-main.js": "/tmz-portfolio/static/js/runtime-main.3266aa73.js",
+    "runtime-main.js.map": "/tmz-portfolio/static/js/runtime-main.3266aa73.js.map",
+    "static/js/2.def8b33d.chunk.js": "/tmz-portfolio/static/js/2.def8b33d.chunk.js",
+    "static/js/2.def8b33d.chunk.js.map": "/tmz-portfolio/static/js/2.def8b33d.chunk.js.map",
+    "index.html": "/tmz-portfolio/index.html",
+    "precache-manifest.ee4959de85e4200082cc560d1559231f.js": "/tmz-portfolio/precache-manifest.ee4959de85e4200082cc560d1559231f.js",
+    "service-worker.js": "/tmz-portfolio/service-worker.js",
+    "static/js/2.def8b33d.chunk.js.LICENSE.txt": "/tmz-portfolio/static/js/2.def8b33d.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpg": "/tmz-portfolio/static/media/avatar.3dbc4fe5.jpg",
+    "static/media/bars.b3f49afd.svg": "/tmz-portfolio/static/media/bars.b3f49afd.svg",
+    "static/media/facebook.11a706e8.svg": "/tmz-portfolio/static/media/facebook.11a706e8.svg",
+    "static/media/github.6ed3db48.svg": "/tmz-portfolio/static/media/github.6ed3db48.svg",
+    "static/media/instagram.201afcb0.svg": "/tmz-portfolio/static/media/instagram.201afcb0.svg",
+    "static/media/linkedin.083538a6.svg": "/tmz-portfolio/static/media/linkedin.083538a6.svg",
+    "static/media/times.2c5552a1.svg": "/tmz-portfolio/static/media/times.2c5552a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3266aa73.js",
+    "static/js/2.def8b33d.chunk.js",
+    "static/js/main.e661c0e2.chunk.js"
+  ]
+}
